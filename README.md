@@ -1,2 +1,2 @@
-# IS-Project
-5th sem IS Project
+# SecureSight
+A chrome extension which does on-demand checks on the website the user is on
